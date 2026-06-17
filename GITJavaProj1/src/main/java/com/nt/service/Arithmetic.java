@@ -9,4 +9,8 @@ public class Arithmetic {
 	public int sub(int x,int y) {
 		return (x-y);
 	}
+	
+	public double mult(int x,int y) {
+		return (x*y);
+	}
 }
