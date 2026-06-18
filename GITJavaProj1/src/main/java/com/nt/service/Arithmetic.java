@@ -11,6 +11,7 @@ public class Arithmetic {
 	}
 	
 	public double mult(int x,int y) {
+		System.out.println("Arithmetic mult() called!!!!");
 		return (x*y);
 	}
 }
