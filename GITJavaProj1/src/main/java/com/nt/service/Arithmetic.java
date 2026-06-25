@@ -14,4 +14,8 @@ public class Arithmetic {
 		System.out.println("Arithmetic mult() called!!!!");
 		return (x*y);
 	}
+	
+	public int div(int x,int y) {
+		System.out.println("Arithmetic div() called!!!!");
+		return (x/y);	}
 }
