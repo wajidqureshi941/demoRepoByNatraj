@@ -8,4 +8,7 @@ public class Branch {
 	void meth2() {
 		System.out.println("trying branch2 to push in ....");
 	}
+	void meth3() {
+		System.out.println("meth3() adding");
+	}
 }
